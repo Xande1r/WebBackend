@@ -1,0 +1,9 @@
+INSERT INTO `tb_student` (`stu_id`, `stu_name`, `stu_sex`, `stu_age`, `stu_origin`, `stu_profession_id`) VALUES ('201003002', '范超', '男', 19, '兰州', 2);
+INSERT INTO `tb_student` (`stu_id`, `stu_name`, `stu_sex`, `stu_age`, `stu_origin`, `stu_profession_id`) VALUES ('201003003', '赵婷婷', '女', 18, '天水', 2);
+INSERT INTO `tb_student` (`stu_id`, `stu_name`, `stu_sex`, `stu_age`, `stu_origin`, `stu_profession_id`) VALUES ('201003004', '高金鹏', '男', 21, '天水', 3);
+INSERT INTO `tb_student` (`stu_id`, `stu_name`, `stu_sex`, `stu_age`, `stu_origin`, `stu_profession_id`) VALUES ('201003005', '王梓旭', '女', 19, '兰州', 1);
+INSERT INTO `tb_student` (`stu_id`, `stu_name`, `stu_sex`, `stu_age`, `stu_origin`, `stu_profession_id`) VALUES ('201003006', '吕洁', '女', 19, '武威', 3);
+INSERT INTO `tb_student` (`stu_id`, `stu_name`, `stu_sex`, `stu_age`, `stu_origin`, `stu_profession_id`) VALUES ('201003007', '许飞1', '男', 20, '陇南', 1);
+INSERT INTO `tb_student` (`stu_id`, `stu_name`, `stu_sex`, `stu_age`, `stu_origin`, `stu_profession_id`) VALUES ('201003008', '马仲', '男', 22, '平凉', 2);
+INSERT INTO `tb_student` (`stu_id`, `stu_name`, `stu_sex`, `stu_age`, `stu_origin`, `stu_profession_id`) VALUES ('201003009', '李博博', '女', 20, '张掖', 3);
+INSERT INTO `tb_student` (`stu_id`, `stu_name`, `stu_sex`, `stu_age`, `stu_origin`, `stu_profession_id`) VALUES ('201003010', '李敏', '女', 18, '金昌', 1);
